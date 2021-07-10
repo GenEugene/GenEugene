@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Eugene Gataulin (GenEugene)
+3D Animator / Game Developer
 
 <!--
 **GenEugene/GenEugene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
