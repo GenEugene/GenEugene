@@ -1,7 +1,5 @@
 ### Hi there 👋
-I'm Eugene Gataulin (GenEugene)
-
-3D Animator / Game Developer
+I'm **Eugene Gataulin** "GenEugene" - **3D Animator / Game Developer**
 
 - 🔭 I’m currently working on self game project on Unity with small team
 - 🌱 I’m currently learning Unity ECS and C#
