@@ -3,20 +3,20 @@ I'm **Eugene Gataulin** "GenEugene" - **3D Animator and Game Developer**
 
 📫 How to reach me:
 
-Linkedin - https://www.linkedin.com/in/geneugene
-GitHub - https://github.com/GenEugene/GETools
-Gumroad - https://app.gumroad.com/geneugene
+- Linkedin - https://www.linkedin.com/in/geneugene
+- GitHub - https://github.com/GenEugene/GETools
+- Gumroad - https://app.gumroad.com/geneugene
 
-Youtube - https://youtube.com/@EugeneGataulin
-Artstation - https://www.artstation.com/geneugene
-Sketchfab - https://sketchfab.com/geneugene
+- Youtube - https://youtube.com/@EugeneGataulin
+- Artstation - https://www.artstation.com/geneugene
+- Sketchfab - https://sketchfab.com/geneugene
 
-Instagram - https://www.instagram.com/myname_eugene
-Twitter - https://twitter.com/EugeneGataulin
-Discord - https://discord.gg/heMxJhTqCz
+- Instagram - https://www.instagram.com/myname_eugene
+- Twitter - https://twitter.com/EugeneGataulin
+- Discord - https://discord.gg/heMxJhTqCz
 
-Itch.io - https://geneugene.itch.io/hexagold
-Steam Page - https://store.steampowered.com/app/2551010/HEXAGOLD/
+- Itch.io - https://geneugene.itch.io/hexagold
+- Steam Page - https://store.steampowered.com/app/2551010/HEXAGOLD/
 
 
 <!--
