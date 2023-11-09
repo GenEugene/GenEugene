@@ -1,14 +1,23 @@
 ### Hi there 👋
-I'm **Eugene Gataulin** "GenEugene" - **3D Animator / Game Developer**
+I'm **Eugene Gataulin** "GenEugene" - **3D Animator and Game Developer**
 
-- 🔭 I’m currently working on self game project on Unity with small team
-- 🌱 I’m currently learning Unity C#
-- 👯 I’m looking to collaborate on Indie projects (Steam, Consoles)
-- 🤔 I’m looking for help with my Unity project (programmer, 3d artist, sound designer and etc)
-- 💬 Ask me about Autodesk Maya (3D Animation, Rigging)
-- 📫 How to reach me:
-  - **Discord** - Евгений Гатаулин#6703
-  - **YouTube** - https://www.youtube.com/channel/UCCIzdVu6RMqUoOmxHoOEPAQ
+📫 How to reach me:
+
+Linkedin - https://www.linkedin.com/in/geneugene
+GitHub - https://github.com/GenEugene/GETools
+Gumroad - https://app.gumroad.com/geneugene
+
+Youtube - https://youtube.com/@EugeneGataulin
+Artstation - https://www.artstation.com/geneugene
+Sketchfab - https://sketchfab.com/geneugene
+
+Instagram - https://www.instagram.com/myname_eugene
+Twitter - https://twitter.com/EugeneGataulin
+Discord - https://discord.gg/heMxJhTqCz
+
+Itch.io - https://geneugene.itch.io/hexagold
+Steam Page - https://store.steampowered.com/app/2551010/HEXAGOLD/
+
 
 <!--
 **GenEugene/GenEugene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
