@@ -7,6 +7,9 @@ I'm **Eugene Gataulin** "GenEugene" - **3D Animator and Game Developer**
 - GitHub - https://github.com/GenEugene/GETools
 - Gumroad - https://app.gumroad.com/geneugene
 
+- Paypal - https://paypal.me/EugeneGataulin
+- Patreon - https://patreon.com/geneugene
+
 - Youtube - https://youtube.com/@EugeneGataulin
 - Artstation - https://www.artstation.com/geneugene
 - Sketchfab - https://sketchfab.com/geneugene
